@@ -4,3 +4,7 @@ In this post, I will be implementing a Linear Regression model without relying o
 
 You can see a video tutorial on this topic by visiting below link.
 https://youtu.be/EN8u8KtYWtM
+
+Acorresponding medium post can be found at below link.
+https://medium.com/@dhiraj8899/linear-regression-without-sklearn-from-scratch-5c83b46642f8
+
